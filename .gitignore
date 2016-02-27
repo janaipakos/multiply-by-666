@@ -42,3 +42,5 @@ private
 .DS_Store
 
 test/build/test-bundle.js
+
+src/build/bundle.js
