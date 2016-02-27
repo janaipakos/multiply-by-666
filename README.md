@@ -6,7 +6,7 @@ Run this example by browserifying the code:
 
 ```shell
 grunt build
-open src/event-bar.html
+open src/devil-bar.html
 ```
 
 ![devil-bar.png][2]
