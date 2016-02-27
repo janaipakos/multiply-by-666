@@ -40,3 +40,5 @@ private
 
 # OS artifacts
 .DS_Store
+
+test/build/test-bundle.js
