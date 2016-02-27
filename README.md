@@ -1,6 +1,6 @@
 #Unit Testing with Tape#
 
-This small application demonstrates unit testing in the browser with !tape[1].  It multiplies a whole number by 666 and lists the result. The implementation is fully written, and tested, using Common.JS, Sinon, and `tape`.
+This small application demonstrates unit testing in the browser with ![tape][1].  It multiplies a whole number by 666 and lists the result. The implementation is fully written, and tested, using Common.JS, Sinon, and `tape`.
 
 Run this example by browserifying the code:
 
