@@ -31,5 +31,5 @@ In this application you input a whole number and then click on a button to multi
 - Clicking clear with no input should not throw an error.
 - Clicking clear should clear the results list.
 
-[1]: https://github.com/janaipakos/unit-testing-with-tape/images/devil-bar.png
-[2]: https://github.com/janaipakos/unit-testing-with-tape/images/tape-console.png
+[1]: https://raw.github.com/janaipakos/unit-testing-with-tape/images/devil-bar.png
+[2]: https://raw.github.com/janaipakos/unit-testing-with-tape/images/tape-console.png
