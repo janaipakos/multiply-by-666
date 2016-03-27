@@ -27,7 +27,7 @@ In this application you input a whole number and then click on a button to multi
 ##Interface Description##
 There are four components: the text input, a submit button, a clear button, and a results list.
 
-###Derived Test Cases###
+##Derived Test Cases##
 - Clicking Satanize without an input should result in an error message.
 - Clicking Satanize with a decimal input should result in an error message.
 - Clicking Satanize with a whole number input should result in a number multiplied by 666.
