@@ -1,7 +1,8 @@
-#Unit Testing with Tape#
+#Multiply by 666#
 
-This small application demonstrates unit testing in the browser with [tape][1].  It multiplies a whole number by 666 and lists the result. The implementation is fully written, and tested, using Common.JS, Sinon, and `tape`.
+This application multiplies any number by 666. The unit testing is done in-browser with [tape][1]. It multiplies a whole number by 666 and lists the result. The implementation is fully written, and tested, using Common.JS, Sinon, and `tape`.
 
+#Usage#
 Run this example by browserifying the code:
 
 ```shell
@@ -22,6 +23,9 @@ open test/runner.html
 
 ##Application Definition##
 In this application you input a whole number and then click on a button to multiply that number by 666. The resulting number is displayed in a list. Any error, such as an invalid or decimal number, is also displayed in the list. There is also a button to clear the list. There are six derived test cases based on this functionality
+
+##Interface Description##
+There are four components: the text input, a submit button, a clear button, and a results list.
 
 ###Derived Test Cases###
 - Clicking Satanize without an input should result in an error message.
