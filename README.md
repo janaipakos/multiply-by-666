@@ -1,5 +1,3 @@
-#Multiply by 666#
-
 This application multiplies any number by 666. The unit testing is done in-browser with [tape][1]. It multiplies a whole number by 666 and lists the result. The implementation is fully written, and tested, using Common.JS, Sinon, and `tape`.
 
 ##Usage##
