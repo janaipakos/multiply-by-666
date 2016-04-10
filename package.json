@@ -1,0 +1,27 @@
+{
+  "name": "unit-testing-with-tape",
+  "version": "0.1.0",
+  "homepage": "https://github.com/janaipakos/unit-testing-with-tape",
+  "author": {
+    "name": "James Anaipakos",
+    "email": "janaipakos@gmail.com",
+    "url": "https://jamesanaipakos.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janaipakos/unit-testing-with-tape"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+},
+  "devDependencies": {
+    "browserify": "^3.32.1",
+    "gh-pages": "^0.11.0",
+    "grunt": "^0.4.4",
+    "grunt-browserify": "^1.3.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "sinon": "^1.9.0",
+    "tape": "^2.10.2"
+  }
+}
