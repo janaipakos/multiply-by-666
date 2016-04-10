@@ -13,7 +13,7 @@
     "url": "https://github.com/janaipakos/unit-testing-with-tape"
   },
   "scripts": {
-    "deploy": "gh-pages -d",
+    "deploy": "gh-pages -d .",
 },
   "devDependencies": {
     "browserify": "^3.32.1",
